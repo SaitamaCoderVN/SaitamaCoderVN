@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 💲🙀💲, I'm MeowCrypto</h1>
 <p  align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&random=false&width=450&lines=I+am+a+Software+Engineer+in+Web3+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=450&lines=I+am+a+Software+Engineer+in+Web3+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center"> I like Crypto and Web3 and I am a Vietnamese programmer</h3>
