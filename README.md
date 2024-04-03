@@ -1,5 +1,3 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672971332225/6458f265-cbe9-4116-a633-c38d9e6365a7.png?auto=compress,format&format=webp">
-
 <h1 align="center">Hi 💲🙀💲, I'm MeowCrypto</h1>
 <p  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=450&lines=I+am+a+Software+Engineer+in+Web3+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" /></a>
