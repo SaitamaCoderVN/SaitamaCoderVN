@@ -7,7 +7,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FucktheKingcode&label=Profile%20views&color=0e75b6&style=flat" alt="FucktheKingcode" /> </p>
 
-<a href="https://app.daily.dev/fucthekingcode"><img src="https://api.daily.dev/devcards/v2/9wy9VPkM0oMppZpKLGhMm.png?r=5t3&type=default" width="356" alt="Brother's Dev Card"/></a>
+<a href="https://app.daily.dev/fucthekingcode"><img src="https://api.daily.dev/devcards/v2/9wy9VPkM0oMppZpKLGhMm.png?r=5t3&type=default" align="right" width="356" alt="Brother's Dev Card"/></a>
 
 - 🌐 I like share my skill on **https://anhitshare.online**
 
