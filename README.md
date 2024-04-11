@@ -7,7 +7,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FucktheKingcode&label=Profile%20views&color=0e75b6&style=flat" alt="FucktheKingcode" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM3eTB5bzZia25sNzdoemt1MnJ2Y295NmFpeXV0ejZoZGptNDJpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif">
+<a href="https://app.daily.dev/fucthekingcode"><img src="https://api.daily.dev/devcards/v2/9wy9VPkM0oMppZpKLGhMm.png?r=5t3&type=default" width="356" alt="Brother's Dev Card"/></a>
 
 - 🌐 I like share my skill on **https://anhitshare.online**
 
@@ -22,4 +22,4 @@
 <a href="https://twitter.com/anhphamrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FucktheKingcode" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22736688/meowcrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="FucktheKingcode" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009106992964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FucktheKingcode" height="30" width="40" /></a>
-<a href="https://app.daily.dev/fucthekingcode"><img src="https://api.daily.dev/devcards/v2/9wy9VPkM0oMppZpKLGhMm.png?r=5t3&type=default" width="356" alt="Brother's Dev Card"/></a>
+
