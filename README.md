@@ -24,3 +24,5 @@
 <a href="https://www.facebook.com/profile.php?id=100009106992964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FucktheKingcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMMd2d2VtzJE5q8RkbCeF5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FucktheKingcode" height="30" width="40" /></a>
 </p>
+
+<a href="https://app.daily.dev/fucthekingcode"><img src="https://api.daily.dev/devcards/v2/9wy9VPkM0oMppZpKLGhMm.png?r=5t3&type=wide" width="652" alt="Brother's Dev Card"/></a>
